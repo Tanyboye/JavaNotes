@@ -1,0 +1,1 @@
+[静态内部类](https://www.cnblogs.com/aademeng/articles/6192954.html)
